@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thflgg133
+- 👋 Hi, I’m @Hand_mk98
 - 👀 I’m interested in Autonomous Vehicle
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C++, ROS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
