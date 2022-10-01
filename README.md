@@ -1,7 +1,8 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thflgg133&show_icons=true&theme=radical)
-<img src="http://mazandi.herokuapp.com/api?handle={thflgg133}&theme=warm"/>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thflgg133)](https://solved.ac/thflgg133)
 
 - 👋 Hi, I’m @Hand_mk98
 - 👀 I’m interested in Autonomous Vehicle
